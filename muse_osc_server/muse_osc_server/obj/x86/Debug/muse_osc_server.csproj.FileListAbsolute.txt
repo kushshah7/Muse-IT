@@ -1,0 +1,11 @@
+C:\Users\shahk\Downloads\muse_csharp_osc_server\muse_osc_server\muse_osc_server\obj\x86\Debug\muse_osc_server.exe
+C:\Users\shahk\Downloads\muse_csharp_osc_server\muse_osc_server\muse_osc_server\bin\Debug\SharpOSC.dll
+C:\Users\shahk\Downloads\muse_csharp_osc_server\muse_osc_server\muse_osc_server\bin\Debug\SharpOSC.pdb
+C:\Users\shahk\Downloads\muse_csharp_osc_server\muse_osc_server\muse_osc_server\obj\x86\Debug\muse_osc_server.csprojResolveAssemblyReference.cache
+C:\Users\shahk\Downloads\muse_csharp_osc_server\muse_osc_server\muse_osc_server\obj\x86\Debug\muse_osc_server.pdb
+C:\Users\shahk\Downloads\muse_csharp_osc_server\muse_osc_server\muse_osc_server\bin\Debug\muse_osc_server.exe
+C:\Users\shahk\Downloads\muse_csharp_osc_server\muse_osc_server\muse_osc_server\bin\Debug\muse_osc_server.pdb
+C:\Users\shahk\Downloads\muse_csharp_osc_server\muse_osc_server\muse_osc_server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shahk\Downloads\muse_csharp_osc_server\muse_osc_server\muse_osc_server\bin\Debug\SpotifyAPI.dll
+C:\Users\shahk\Downloads\muse_csharp_osc_server\muse_osc_server\muse_osc_server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\shahk\Downloads\muse_csharp_osc_server\muse_osc_server\muse_osc_server\bin\Debug\SpotifyAPI.xml
